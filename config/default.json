@@ -1,0 +1,12 @@
+{
+    "api": {
+        "porta": 3000
+    },
+    "mysql": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "user",
+        "senha": "password",
+        "database": "database"
+    }
+}
